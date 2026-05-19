@@ -2,7 +2,8 @@
 Nombre: Erika
 Apellido: Benitez
 Fecha: 19/05/2026
-Tema: Juego gorilla/*
+Tema: Juego gorilla*/
+/*
     TP_GorillaBas_BenitezAyala_ErikaJessenia.cpp
 
     Version 2D grafica de Gorilla.bas usando solamente herramientas de Windows.
